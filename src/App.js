@@ -131,7 +131,7 @@ const App = () => {
           <h1 className="text-center mb-3">Aplikasi Tracking Keuangan</h1>
           <h2 className="text-center mb-4">Agus Setiono</h2>
           <div className="d-flex justify-content-center align-item-center">
-          <img src="/image.svg" alt="image" style={{
+          <img src="/image.svg" alt="just-gambar" style={{
             objectFit: 'scale-down',
             width: "15rem",
             position: "center",
